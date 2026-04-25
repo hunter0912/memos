@@ -2,6 +2,7 @@
 
 #### 使用说明
 
+0. docsify模版
 1. 把Markdown文件放到这个文件夹
 2. 修改`_sidebar.md`添加文件链接
 

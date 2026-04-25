@@ -1,8 +1,8 @@
-**首页**
+* **首页**
 * [介绍](README.md)
 * [示例文档](example.md)
 
-**开发**
+* **开发**
 * [前端](dev/frontend.md)
   * [Vue3](dev/frontend-vue3.md)
 * [后台](dev/backend.md)
@@ -14,7 +14,7 @@
   * [skills](ai/skills/skills.md)
   * [deepseek](ai/deepseek/deepseek.md)
 
-**日记**
+* **日记**
 * [2026](diary/2026/2026.md)
   * [2026/04](diary/2026/04/01.md)
     * [2026/04/25](diary/2026/04/25.md)
