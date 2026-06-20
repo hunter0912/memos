@@ -20,3 +20,9 @@ npx @opengsd/gsd-core@latest
 brew link --overwrite node@24
 /opt/homebrew/bin/node --version
 ```
+
+## 更新
+
+```cmd
+/gsd-update
+```

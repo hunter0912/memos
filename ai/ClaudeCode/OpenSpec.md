@@ -4,7 +4,7 @@
 
 [GitHub][OpenSpec GitHub]
 
-[OpenSpec GitHub]: https://github.com/Fission-AI/OpenSpec/
+[OpenSpec GitHub]: https://github.com/Fission-AI/OpenSpec/ "OpenSpec"
 
 ## 安装
 

@@ -2,4 +2,4 @@
 
 ## 安装 ccswitch
 
-## 安装 cc
+## 安装 Claude Code
